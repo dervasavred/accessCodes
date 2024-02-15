@@ -1,8 +1,6 @@
 # Common Access Codes
-
 Lists common access codes for various vendors. 
-
-Most likely codes are listed first.
+Most commonly-used codes are listed first.
 
 ========== ==========
 
